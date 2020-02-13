@@ -100,7 +100,6 @@ const setValue = value => {
 We're going to use this inside our dark mode hook, but this can be used anywhere for any kind of localStorage needs you have in your apps. Custom hooks are so awesome!!
 
 ## STEP 2 - useDarkMode
-
 - Inside the `hooks` directory, add a new file called `useDarkMode`.
 - Build a function called `useDarkMode`.
 - Import `useLocalStorage`
@@ -123,6 +122,12 @@ Now that we have composed our different pieces of stateful logic, let's use it i
 (If it wasn't magical, you have a bug somewhere 😫 go back through the steps slowly, one at a time, to see if you missed any of the steps)
 
 ## Stretch Problems
+
+
+
+
+
+
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
 
